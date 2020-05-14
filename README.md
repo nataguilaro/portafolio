@@ -1,4 +1,3 @@
-# portafolio
 # Prueba - Mi Portafolio
 > Construye un landing page, este será un portafolio web que integre todas los desafíos realizados
 anteriormente.
